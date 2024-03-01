@@ -1,6 +1,6 @@
 # Taboolib-MyConfig
 
-基于Taboolib设计的自己的Config类
+基于Taboolib设计的自己的Config类 **新手研究的 希望有大哥提出问题代码！！！**
 
 # Config类使用指南
 
