@@ -6,7 +6,7 @@
 
 `Config`类是一个配置类，用于处理和操作配置文件。以下是对这个类功能和使用方法的详细介绍。
 
-      `val configSet = Config.Builder()
+      val configSet = Config.Builder()
 
             // 不设置默认为插件主目录下的config.yml
             .setPath("test")
@@ -37,4 +37,4 @@
         println(int)
         println(double)
         println(boolean)
-        println(stringList)`
+        println(stringList)
